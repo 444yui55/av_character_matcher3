@@ -69,7 +69,6 @@ function showResult(char) {
       <h3>あなたに最も近いキャラクター</h3>
       <h2>${char.name}</h2>
       <img src="${char.image}" class="result-image">
-      <p>${char.description}</p>
       <a href="${char.link}" target="_blank">詳しく見る</a>
     </div>
   `;
