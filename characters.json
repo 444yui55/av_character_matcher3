@@ -1,0 +1,224 @@
+[
+  {
+    "id": "char01",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1099472"
+  },
+  {
+    "id": "char02",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char03",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char04",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char05",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char06",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char07",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char08",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char09",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char10",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char11",
+    "name": "瀬戸環奈",
+    "type": "王道女優",
+    "traits": {
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
+    },
+    "image": "image/char01.png",
+    "link": "https://example.com/char01"
+  },
+  {
+    "id": "char12",
+    "name": "キャラB",
+    "type": "空間支配タイプ",
+    "traits": {
+      "acting": 2,
+      "space": 5,
+      "body": 2,
+      "thought": 1
+    },
+    "image": "image/char02.png",
+    "link": "https://example.com/char02"
+  }
+]
