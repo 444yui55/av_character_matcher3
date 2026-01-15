@@ -20,22 +20,22 @@
   },
   {
     "id": "char02",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+    "name": "星乃莉子",
+    "type": "健康ボーイッシュ",
     "traits": {
       "age": 2,
       "hair": 2,
-      "height": 3,
-      "bast": 3,
-      "underhair": 2,
-      "eye": 4,
-      "body": 3,
-      "aura": 4,
+      "height": 2,
+      "bast": 2,
+      "underhair": 3,
+      "eye": 3,
+      "body": 4,
+      "aura": 1,
       "voice": 3,
       "last": 1
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char02.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1079035"
   },
   {
     "id": "char03",
@@ -213,10 +213,16 @@
     "name": "キャラB",
     "type": "空間支配タイプ",
     "traits": {
-      "acting": 2,
-      "space": 5,
-      "body": 2,
-      "thought": 1
+      "age": 2,
+      "hair": 2,
+      "height": 3,
+      "bast": 3,
+      "underhair": 2,
+      "eye": 4,
+      "body": 3,
+      "aura": 4,
+      "voice": 3,
+      "last": 1
     },
     "image": "image/char02.png",
     "link": "https://example.com/char02"
