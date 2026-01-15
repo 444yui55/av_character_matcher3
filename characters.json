@@ -2,7 +2,6 @@
   {
     "id": "char01",
     "name": "瀬戸環奈",
-    "type": "王道女優",
     "traits": {
       "age": 2,
       "hair": 2,
@@ -21,7 +20,6 @@
   {
     "id": "char02",
     "name": "星乃莉子",
-    "type": "健康ボーイッシュ",
     "traits": {
       "age": 2,
       "hair": 2,
@@ -40,7 +38,6 @@
   {
     "id": "char03",
     "name": "MINAMO",
-    "type": "淫乱",
     "traits": {
       "age": 2,
       "hair": 2,
@@ -59,7 +56,6 @@
   {
     "id": "char04",
     "name": "唯井まひろ",
-    "type": "幼女",
     "traits": {
       "age": 2,
       "hair": 2,
@@ -78,7 +74,6 @@
   {
     "id": "char05",
     "name": "塔乃花鈴",
-    "type": "性癖がん刺さり",
     "traits": {
       "age": 2,
       "hair": 3,
@@ -95,136 +90,129 @@
     "link": "https://video.dmm.co.jp/av/list/?actress=1094631"
   },
   {
-    "id": "char06",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+     "id": "char06",
+    "name": "葵いぶき",
     "traits": {
       "age": 2,
-      "hair": 2,
+      "hair": 3,
       "height": 3,
       "bast": 3,
       "underhair": 2,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
+      "body": 4,
+      "aura": 3,
       "voice": 3,
-      "last": 1
+      "last": 3
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char06.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1061760"
   },
   {
-    "id": "char07",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+ "id": "char07",
+    "name": "七沢みあ",
     "traits": {
       "age": 2,
-      "hair": 2,
-      "height": 3,
-      "bast": 3,
+      "hair": 4,
+      "height": 1,
+      "bast": 1,
       "underhair": 2,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
-      "voice": 3,
-      "last": 1
+      "body": 4,
+      "aura": 2,
+      "voice": 4,
+      "last": 2
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char07.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1042129"
   },
   {
-    "id": "char08",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+ "id": "char08",
+    "name": "美園和花",
     "traits": {
       "age": 2,
       "hair": 2,
-      "height": 3,
+      "height": 2,
       "bast": 3,
-      "underhair": 2,
+      "underhair": 1,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
+      "body": 2,
+      "aura": 2,
       "voice": 3,
-      "last": 1
+      "last": 4
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char08.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1044099"
   },
   {
-    "id": "char09",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+ "id": "char09",
+    "name": "北岡果林",
     "traits": {
       "age": 2,
-      "hair": 2,
+      "hair": 4,
       "height": 3,
-      "bast": 3,
-      "underhair": 2,
+      "bast": 1,
+      "underhair": 1,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
-      "voice": 3,
-      "last": 1
+      "body": 4,
+      "aura": 2,
+      "voice": 2,
+      "last": 2
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char09.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1092427"
   },
   {
-    "id": "char10",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+ "id": "char10",
+    "name": "宮下玲奈",
     "traits": {
       "age": 2,
-      "hair": 2,
+      "hair": 3,
       "height": 3,
-      "bast": 3,
+      "bast": 2,
       "underhair": 2,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
-      "voice": 3,
-      "last": 1
+      "body": 4,
+      "aura": 3,
+      "voice": 4,
+      "last": 3
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char10.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1094631"
   },
   {
-    "id": "char11",
-    "name": "瀬戸環奈",
-    "type": "王道女優",
+ "id": "char11",
+    "name": "黒島玲衣",
     "traits": {
       "age": 2,
-      "hair": 2,
+      "hair": 4,
       "height": 3,
       "bast": 3,
-      "underhair": 2,
-      "eye": 4,
+      "underhair": 3,
+      "eye": 3,
       "body": 3,
       "aura": 4,
       "voice": 3,
-      "last": 1
+      "last": 2
     },
-    "image": "image/char01.png",
-    "link": "https://example.com/char01"
+    "image": "image/char11.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1085628"
   },
   {
-    "id": "char12",
-    "name": "キャラB",
-    "type": "空間支配タイプ",
+ "id": "char12",
+    "name": "金松季歩",
     "traits": {
-      "age": 2,
-      "hair": 2,
-      "height": 3,
+      "age": 3,
+      "hair": 3,
+      "height": 2,
       "bast": 3,
-      "underhair": 2,
+      "underhair": 1,
       "eye": 4,
-      "body": 3,
-      "aura": 4,
-      "voice": 3,
+      "body": 4,
+      "aura": 1,
+      "voice": 4,
       "last": 1
     },
-    "image": "image/char02.png",
-    "link": "https://example.com/char02"
+    "image": "image/char12.png",
+    "link": "https://video.dmm.co.jp/av/list/?actress=1092091"
   }
 ]
